@@ -1,6 +1,0 @@
-@import "tailwindcss";
-@import "@nuxt/ui";
-
-:root {
-  --ui-header-height: calc(var(--spacing) * 16);
-}
