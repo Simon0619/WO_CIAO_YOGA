@@ -67,7 +67,7 @@ yoga-main/
 
 ## GitHub Repository
 
-GitHub: [https://github.com/Simon0619/WO_CIAO_YOGA)](https://github.com/Simon0619/WO_CIAO_YOGA)
+GitHub: [https://github.com/Simon0619/Hypermedia_Project_Yoga-website](https://github.com/Simon0619/Hypermedia_Project_Yoga-website)
 
 ---
 
